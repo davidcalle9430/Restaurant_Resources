@@ -6,6 +6,11 @@
 
 footer.page-footer{
     background-color:  #BE005E;
+    margin-top: 0px;
+}
+
+.red.lighten-3{
+  background-color: #349E90 !important;
 }
 @media screen and (min-width:1100px){
   .products{
