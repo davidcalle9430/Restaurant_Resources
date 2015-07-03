@@ -4,7 +4,9 @@
   background-color:  #BE005E;
 }
 
-
+footer .page-footer{
+    background-color:  #BE005E;
+}
 @media screen and (min-width:1100px){
   .products{
     max-width: 80%;
