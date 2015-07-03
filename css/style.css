@@ -9,8 +9,12 @@ footer.page-footer{
     margin-top: 0px;
 }
 
+.card-content{
+  padding: 10px;
+}
+
 .red.lighten-3{
-  background-color: #349E90 !important;
+  background-color: #349E90;
 }
 @media screen and (min-width:1100px){
   .products{
