@@ -4,14 +4,17 @@
   background-color:  #BE005E;
 }
 
+.card .card-content{
+  padding: 10px;
+  padding-top: 3px;
+}
+
 footer.page-footer{
     background-color:  #BE005E;
     margin-top: 0px;
 }
 
-.card .card-content{
-  padding: 10px;
-}
+
 
 .red.lighten-3{
   background-color: #349E90;
