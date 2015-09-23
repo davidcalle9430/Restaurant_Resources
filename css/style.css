@@ -42,7 +42,9 @@ footer.page-footer{
   width: 100%;
   max-height: 110%;
 }
-
+.parallax img{
+      opacity: 0.7;
+}
 @media screen and (min-width:1100px){
   .products{
     max-width: 80%;
